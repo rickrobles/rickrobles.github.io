@@ -4,7 +4,7 @@
 	.main { width: 1200px; }
 	.avatar,.info_left { float: left; margin: 0; }
 	.base,.info_right { float: right; }
-	.info_left,.info_right { width: 47%; }
+	.info_left,.info_right { width: 48%; }
 	.base { width: calc(100% - 190px); width: -moz-calc(100% - 190px); width: -webkit-calc(100% - 190px); }
 	.base span { position: absolute; right: 100px; top: 27px; }
 	.info_timeline dl dt { width: 200px; }
